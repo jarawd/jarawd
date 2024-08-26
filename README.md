@@ -43,8 +43,8 @@ Soy un desarrollador web recién egresado de Tripleten con una pasión por crear
 
 
 ### :computer: Proyectos Destacados
-#### 	:heavy_check_mark: App de galería de imágenes.
+#### 	:heavy_check_mark: [App de galería de imágenes](https://flux.crabdance.com/)
 App responsiva que cuenta con registro e inicio de sesión para guardar imágenes, dar me gusta, eliminar y cambiar la información del perfil.
 
-#### 	:heavy_check_mark: App de noticias
+#### 	:heavy_check_mark: [App de noticias](https://jarawd.github.io/news-app/)
 Esta amigable app (que de hecho fue mi proyecto final), muestra en forma de cuadrícula las noticias globales más recientes.
