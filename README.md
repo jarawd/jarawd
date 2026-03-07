@@ -18,7 +18,7 @@
 
 ### :man_technologist: Sobre mí :
 
-Soy un desarrollador web recién egresado de Tripleten con una pasión por crear aplicaciones web eficientes y atractivas. Me gusta aprender nuevas tecnologías y mejorar mis habilidades constantemente.
+Soy un desarrollador web egresado de Tripleten con una pasión por crear aplicaciones web eficientes y atractivas. Me gusta aprender nuevas tecnologías y mejorar mis habilidades constantemente.
 * :telescope: Actualmente estoy trabajando en una empresa manufacturera y al mismo tiempo sigo repasando los conceptos aprendidos durante el bootcamp para hacer más suave la transición a la industria tecnológica.
 * 🌱 Sigo perfeccionando mi inglés para entrar lo más preparado posible al mundo del desarrollo web del cual estoy muy emocionado de pertenecer.
 * 💬 Pregúntame sobre HTML, CSS, JavaScript, ReactJS.
